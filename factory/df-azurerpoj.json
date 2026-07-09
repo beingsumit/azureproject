@@ -1,0 +1,15 @@
+{
+	"name": "df-azurerpoj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "253e557f-3493-44b6-9e09-5ff3d532cfa6",
+		"tenantId": "501b1711-dfe4-48b5-becb-4dbe7a25f2f2"
+	}
+}
